@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "updated": "2026-10-21",
+  "min_app_version": "0.1.0",
+  "servers": [
+    {
+      "id": "ana",
+      "name": "Vadi",
+      "host": "",
+      "port": 7777,
+      "cert_sha256": "",
+      "status": "offline",
+      "message_tr": "Sunucu henüz açılmadı.",
+      "message_en": "The server is not open yet."
+    }
+  ]
+}
