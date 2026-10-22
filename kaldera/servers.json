@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "min_app_version": "0.1.0",
   "servers": [
     {
       "id": "ana",
       "name": "Kaldera",
-      "host": "",
-      "port": 7777,
+      "host": "signaling-fuji.tun.ply.gg",
+      "port": 18575,
       "cert_sha256": "",
-      "status": "offline",
-      "message_tr": "Sunucu henüz açılmadı.",
-      "message_en": "The server is not open yet."
+      "status": "online",
+      "message_tr": "",
+      "message_en": ""
     }
   ]
 }
