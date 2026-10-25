@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22",
+  "updated": "2026-10-25",
   "min_app_version": "0.1.0",
   "servers": [
     {
@@ -8,6 +8,10 @@
       "name": "Kaldera",
       "host": "signaling-fuji.tun.ply.gg",
       "port": 18575,
+      "endpoints": [
+        {"host": "192.168.1.101", "port": 7777, "kind": "lan"},
+        {"host": "signaling-fuji.tun.ply.gg", "port": 18575, "kind": "tunnel"}
+      ],
       "cert_sha256": "",
       "status": "online",
       "message_tr": "",
