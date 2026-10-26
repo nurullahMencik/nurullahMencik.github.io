@@ -3,3 +3,4 @@ h1{font-size:1.8rem;margin:.2em 0}h2{font-size:1.25rem;margin-top:1.6em;border-b
 nav a{margin-right:14px}a{color:#1d5c3f}.lang{background:#e6ece8;padding:10px 14px;border-radius:8px;font-size:.95rem}
 table{border-collapse:collapse;width:100%}td,th{border:1px solid #cfd8d2;padding:6px 8px;text-align:left;vertical-align:top}
 footer{margin-top:2em;font-size:.9rem;color:#56645c}
+nav .lang-switch{float:right;margin-right:0;font-weight:600}ol,ul{padding-left:1.3em}li{margin:.25em 0}
