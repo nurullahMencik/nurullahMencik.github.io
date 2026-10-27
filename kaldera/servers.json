@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "updated": "2026-10-25",
-  "min_app_version": "0.3.0",
+  "min_app_version": "0.4.0",
   "servers": [
     {
       "id": "ana",
@@ -26,5 +26,6 @@
       "message_en": "",
       "cert_pem": "-----BEGIN CERTIFICATE-----\nMIIDBjCCAe6gAwIBAgIURmH+cPOyX0qzXhQkaxt3D9rOECAwDQYJKoZIhvcNAQEL\nBQAwMTEQMA4GA1UEAwwHa2FsZGVyYTEQMA4GA1UECgwHS2FsZGVyYTELMAkGA1UE\nBhMCVFIwHhcNMjYxMDI3MDAwMDAwWhcNMzYxMDI3MjM1OTU5WjAxMRAwDgYDVQQD\nDAdrYWxkZXJhMRAwDgYDVQQKDAdLYWxkZXJhMQswCQYDVQQGEwJUUjCCASIwDQYJ\nKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJn3Lnqkv/7mOnCT00hfoRLDXfgPWr1x\nNBWvJNZojieJVwMzpfTDRTEfUQzTbtK2uV9KoHkoSaLFLh3rQS+ek0IH4ecSdT02\nitOe+OcH3umFZXzJQgy17weua1dcpik41dV82rXOeEo7aODcUwclabR2ajzw0J4B\nx3XbE+KxKRla5b/3rCo8ngbcEIq4xP4qUcCB2F35dppGAIrWLFKM7ISMJiDCyHHI\nNBuPMwuw3OQHzxOv2koRNJLWKvHO3itBBLQPWjb+/0/J77d9j+DvSdoSGyjwLetK\njyApl0hc3hwN4A2JAjWi1jlrra7DWKDd/SlFJrGNFUnOwbrdZImo35cCAwEAAaMW\nMBQwEgYDVR0TAQH/BAgwBgEB/wIBADANBgkqhkiG9w0BAQsFAAOCAQEAArwnLKFC\nebsI5+1VEU3D0NNfECIlQ0lNc8RyLTlxDUgXv4cHiPXNwuxnYf35LDk4EMkbXxAU\nhv3aBUSS04LDn3u7hHsmf93+1eYrosqEWYCx8i4FgWO3zDlBNIcGVmg2y7/acqvc\n57UlEbeyNyaHEYOOTBnCTSYWK3Io69GaRfRQyFz76tAif5GuqpLxrJqpvzguO8G8\n7CyTj/Ed6BBjqyhrizVj3RfRgDSWWHBGOiydZTANwya1oG4VXpAG5EGX2dQ0i8VJ\nla9ESWbp426Gne1vMz14GdC0KsQIOeXZixWZb8Xf4/T/IogEdRhkPXkHJbib4rGf\nf951QRFEF+y6tw==\n-----END CERTIFICATE-----\n"
     }
-  ]
+  ],
+  "google_web_client_id": "905496673448-448glmrsdt0c47sm0pb4rfbf4gsdu4r2.apps.googleusercontent.com"
 }
